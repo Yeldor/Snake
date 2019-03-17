@@ -1,3 +1,8 @@
+/* CREATED BY YELDOR
+ * VISIT GITHUB.COM/YELDOR FOR MORE
+ * THIS CODE IS ONLY USUABLE FOR NON-PROFIT & EDUCATIONAL USE
+ */
+
 package snake;
 
 import java.util.ArrayList;
