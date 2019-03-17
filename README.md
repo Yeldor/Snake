@@ -1,4 +1,4 @@
-# Snake-
+# Snake
 This is a remake of the famous game Snake using JavaFX and a showcase for a layout manager I created in the process called YeldorGrid. 
 
 The game operates on a class I created called YeldorGrid, which is a layout manager for JavaFX. It is dependant on XY coordainates
